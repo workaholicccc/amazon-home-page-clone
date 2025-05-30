@@ -1,1 +1,1 @@
-# amazon-home-page-clone
+Cloned the home page of amazon website using HTML and CSS.
